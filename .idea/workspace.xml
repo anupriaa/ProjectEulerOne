@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfe01706-e3ef-470c-8ef1-8853d71f6fe8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ProjectEulerOne.java" />
-    </list>
+    <list default="true" id="cfe01706-e3ef-470c-8ef1-8853d71f6fe8" name="Default" comment="" />
     <ignored path="ProjectEulerOne.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -131,6 +129,7 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RunManager" selected="Application.ProjectEulerOne">
     <configuration default="false" name="ProjectEulerOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
