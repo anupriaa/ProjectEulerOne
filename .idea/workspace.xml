@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfe01706-e3ef-470c-8ef1-8853d71f6fe8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/ProjectEulerOneTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/package-info.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProjectEulerOne.iml" afterPath="$PROJECT_DIR$/ProjectEulerOne.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ProjectEulerOne.java" afterPath="$PROJECT_DIR$/src/ProjectEulerOne.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="cfe01706-e3ef-470c-8ef1-8853d71f6fe8" name="Default" comment="" />
     <ignored path="ProjectEulerOne.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -193,6 +185,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
@@ -492,6 +485,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
