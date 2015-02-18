@@ -12,7 +12,7 @@ public class ProjectEulerOne {
   }
 
   /**
-   * Computes the sum of multiples below 1000.
+   * Computes the sum of multiples below upperbound.
    * @param upperBound The upper bound
    * @return the sum of mutipules.
    */

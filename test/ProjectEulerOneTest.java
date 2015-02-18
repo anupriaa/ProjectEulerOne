@@ -2,6 +2,9 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
+/**
+ * Tests project EulerOne on small numbers.
+ */
 public class ProjectEulerOneTest {
   /**
    * Checks sum of multiples below 10.
@@ -9,6 +12,6 @@ public class ProjectEulerOneTest {
    */
   @Test
   public void testComputeSumOfMultiples() throws Exception {
-    assertEquals("Checking for multiples below 10",23,ProjectEulerOne.computeSumOfMultiples(10));
+    assertEquals("Checking for multiples below 10", 23 , ProjectEulerOne.computeSumOfMultiples(10));
   }
 }
